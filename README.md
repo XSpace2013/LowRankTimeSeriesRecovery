@@ -10,7 +10,7 @@ This directory contains the following datasets and Julia source code files:
 - `Example.jl` contains some basic usage examples using `AR (linear)`, and `Lang (sigmoid)` ([Caroll](https://www.gutenberg.org/ebooks/author/7)+[arXiv](https://www.kaggle.com/datasets/Cornell-University/arxiv)) data.
 - `./Data` contains the following:
   - `./Data/AR_Mixed` Mixed AR Sequence data.
-  - `./Data/AliceArxiv` Encoded Natural Language data (in order: 228 from Alice's Adventures in Wonderland, 316 from Through the Looking Glass, 600 from arXiv).
+  - `./Data/Lang` Encoded Natural Language data (in order: 228 from Alice's Adventures in Wonderland, 316 from Through the Looking Glass, 600 from arXiv).
 
 ## Dependencies
 
