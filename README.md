@@ -1,6 +1,8 @@
 # Source code release for *Nonlinear Sequence Data Embedding by Monotone Variational Inequality*
 
-Conference paper for ICLR 2025
+Conference paper for ICLR 2025 [Link](https://arxiv.org/abs/2406.06894).
+
+J. Y. Zhou and Y. Xie, “Nonlinear sequence embedding by monotone variational inequality,” in *The Thirteenth International Conference on Learning Representations*, 2025.
 
 ## Contents
 
