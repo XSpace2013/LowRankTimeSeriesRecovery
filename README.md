@@ -7,7 +7,7 @@ Conference paper for ICLR 2025
 This directory contains the following datasets and Julia source code files:
 
 - `LowRankTimeSeriesRecovery.jl` contains datastructures and algorithms implementing the timeseries VI Field, Operators A_t and A_t^\*, Nuclear Projection, and Extragradient Method with Backtracing.
-- `Example.jl` contains some basic usage examples using `AR (linear)`, `HMM (sigmoid)`, and `Lang (sigmoid)` ([Caroll](https://www.gutenberg.org/ebooks/author/7)+[arXiv](https://www.kaggle.com/datasets/Cornell-University/arxiv)) data.
+- `Example.jl` contains some basic usage examples using `AR (linear)`, and `Lang (sigmoid)` ([Caroll](https://www.gutenberg.org/ebooks/author/7)+[arXiv](https://www.kaggle.com/datasets/Cornell-University/arxiv)) data.
 - `./Data` contains the following:
   - `./Data/AR_Mixed` Mixed AR Sequence data.
   - `./Data/AliceArxiv` Encoded Natural Language data (in order: 228 from Alice's Adventures in Wonderland, 316 from Through the Looking Glass, 600 from arXiv).
